@@ -5,6 +5,6 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class LightSetColorDto extends LightCodeDto {
+public class SetLightColorDto extends LightCodeDto {
     private String color;
 }

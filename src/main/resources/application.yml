@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/lightstick?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
     username: lightstick
-    password: lightstick!!
+    password: fkdlxm1tmxlr!
 
   jpa:
     show-sql: true

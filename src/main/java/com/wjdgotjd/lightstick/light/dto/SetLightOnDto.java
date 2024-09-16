@@ -5,6 +5,6 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class LightOnChangeDto extends LightCodeDto {
+public class SetLightOnDto extends LightCodeDto {
     private Boolean isOn;
 }
